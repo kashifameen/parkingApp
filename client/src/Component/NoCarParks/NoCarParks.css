@@ -1,0 +1,11 @@
+.no-car-parks {
+    letter-spacing: 0;
+    color: #6E6E6E;
+    font-family: Prompt, sans-serif;
+    margin-left: 16px;
+    height: 21px;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5rem;
+    text-align: center;
+}

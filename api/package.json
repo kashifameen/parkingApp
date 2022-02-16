@@ -1,0 +1,29 @@
+{
+  "name": "2021-march-parkingapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattW-R/2021-march-parkingApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattW-R/2021-march-parkingApp/issues"
+  },
+  "homepage": "https://github.com/MattW-R/2021-march-parkingApp#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.0",
+    "mongodb": "^3.6.9"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4",
+    "nodemon": "^2.0.7"
+  }
+}

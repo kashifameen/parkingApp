@@ -1,0 +1,33 @@
+.card .backToHomeButton {
+    height: 30px;
+    width: 280px;
+    border-color: #0000;
+    border-radius: 6px;
+    background-color: #0E78C4;
+    font-family: Prompt, sans-serif;
+    font-size: 1.14rem;
+    font-weight: 500;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 1.71rem;
+    text-align: center;
+    margin-bottom: 16px;
+    margin-left: 16px;
+    display:inline-block;
+    padding: 10px 0 0 0;
+}
+
+.bookingSuccessPanel {
+    height: 30px;
+    width: 312px;
+    background-color: #5AC23A;
+    font-family: Prompt, sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 1.5rem;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 10px 0 0 0;
+    margin: 12px auto 24px;
+}

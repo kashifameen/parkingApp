@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "60c876061e57a1bc8122a33f"
+  },
+  "email": "test@email.com",
+  "registration": "LS56NIA",
+  "duration": 2,
+  "startDateTime": 1623852650,
+  "carParkId": {
+    "$oid": "60c73a20ae1624754daa9f53"
+  }
+},{
+  "_id": {
+    "$oid": "60c87816e5cab603a9916f2d"
+  },
+  "email": "test2@email.com",
+  "registration": "AK48IUP",
+  "duration": 10,
+  "startDateTime": 1623852650,
+  "carParkId": {
+    "$oid": "60c73a20ae1624754daa9f54"
+  }
+},{
+  "_id": {
+    "$oid": "60c87840e5cab603a9916f2e"
+  },
+  "email": "test3@email.com",
+  "registration": "AK98IUP",
+  "duration": 3,
+  "startDateTime": 1623852650,
+  "carParkId": {
+    "$oid": "60c73a20ae1624754daa9f54"
+  }
+},{
+  "_id": {
+    "$oid": "60c87850e5cab603a9916f2f"
+  },
+  "email": "test4@email.com",
+  "registration": "AK08IUP",
+  "duration": 6,
+  "startDateTime": 1623852650,
+  "carParkId": {
+    "$oid": "60c73a20ae1624754daa9f53"
+  }
+}]

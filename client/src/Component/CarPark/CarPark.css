@@ -1,0 +1,28 @@
+.card {
+    margin: 0 auto 16px;
+    box-sizing: border-box;
+    max-width: 312px;
+    border: 1px solid #BBBBBB;
+    border-radius: 6px;
+}
+
+.card h3, .card p {
+    letter-spacing: 0;
+    color: #6E6E6E;
+    font-family: Prompt, sans-serif;
+    margin-left: 16px;
+}
+
+.card h3 {
+    height: 24px;
+    font-size: 1.14rem;
+    font-weight: bold;
+    line-height: 1.71rem;
+}
+
+.card p {
+    height: 21px;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5rem;
+}

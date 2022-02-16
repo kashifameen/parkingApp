@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "60c73a20ae1624754daa9f53"
+  },
+  "name": "Avon Street",
+  "location": "Avon Street, Bath BA1 1UF",
+  "totalSpaces": 1,
+  "hourlyRate": 3.2
+},{
+  "_id": {
+    "$oid": "60c73a20ae1624754daa9f54"
+  },
+  "name": "Bath Sports and Leisure Centre",
+  "location": "North Parade Road, Bath BA2 4ET",
+  "totalSpaces": 2,
+  "hourlyRate": 1.6
+},{
+  "_id": {
+    "$oid": "60c73a20ae1624754daa9f55"
+  },
+  "name": "Broad Street",
+  "location": "Broad Street, Bath, BA1 5LW",
+  "totalSpaces": 3,
+  "hourlyRate": 1.6
+},{
+  "_id": {
+    "$oid": "60c73a20ae1624754daa9f56"
+  },
+  "name": "Cattle Market",
+  "location": "Walcot Street, Bath BA1 5BD",
+  "totalSpaces": 4,
+  "hourlyRate": 1.6
+},{
+  "_id": {
+    "$oid": "60c73a20ae1624754daa9f57"
+  },
+  "name": "Charlotte Street",
+  "location": "Charlotte Street, Bath BA1 2NE",
+  "totalSpaces": 5,
+  "hourlyRate": 6.4
+},{
+  "_id": {
+    "$oid": "60c73a20ae1624754daa9f58"
+  },
+  "name": "Claverton Street",
+  "location": "Claverton Street, Bath BA2 4JP",
+  "totalSpaces": 6,
+  "hourlyRate": 1.6
+},{
+  "_id": {
+    "$oid": "60c73a20ae1624754daa9f59"
+  },
+  "name": "Kingsmeade Square",
+  "location": "Kingsmead Street, Bath BA1 2AA",
+  "totalSpaces": 7,
+  "hourlyRate": 1.6
+},{
+  "_id": {
+    "$oid": "60c73a20ae1624754daa9f5a"
+  },
+  "name": "Manvers Street",
+  "location": "5A Manvers Street, Bath BA1 1JZ",
+  "totalSpaces": 8,
+  "hourlyRate": 3.2
+}]
